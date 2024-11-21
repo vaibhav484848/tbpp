@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    position: relative;
+}
+#btn{
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+}
+#root{
+    position: absolute;
+    top: 0%;
+    width: 100vw;
+    height: 80px;
+    border: 2px solid black;
+
+}
+.note{
+    width: fit-content;
+    height: 100px;
+}
